@@ -1,7 +1,30 @@
 {
-   "clientID": "s7wbljmueF974KZ3INGoig==",
-   "serverToken": "1@wrhs27QrJdzbLj70tfaVs7Pmw61qPXoOfHUyjIXLnTlp3JzHmZLPSRA4q2A1YyXokwpqXKfV8M14vw==",
-   "clientToken": "azA7WSUpg7o6ckgikx89PTacIGO95/E2ejcdq3FoCgQ=",
-   "encKey": "RfGDwN4pbkC8U4UC9i8PaOUVisMOSqGkoe2Set7SWH8=",
-   "macKey": "PXBJW3m/fSZ58LPv5WwDbJ9yf2jjm2llMGNHDqfD4gM="
-}
+  "creds": {
+    "noiseKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "EH2R+QHHE4qb0R/cQDSs0vNxQvwoMAf41tWViXtcMF
+k="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "pIAZr9Gxr/mVDVGm/b5GRXgopcbDUrLJBDBzFqmLqz
+w="
+      }
+    },
+    "signedIdentityKey": {
+      "private": {
+        "type": "Buffer",
+        "data": "cMIz7BUJfkIS8eNMMq2dwnq3xVtCsl6wLlCOKlTkzF
+U="
+      },
+      "public": {
+        "type": "Buffer",
+        "data": "/FkkoPwb8vKwrR0fC8kWr9v38BNDDVQxCk9UaFaNeh
+U="
+      }
+    },
+    "signedPreKey": {
+      "keyPair": {
+        "private": {
+          "type": "Buffer",
